@@ -1,0 +1,1229 @@
+[
+    [
+    {
+        "nip": "198963528772001",
+        "nama": "SLAMET SISWANTO UTOMO, S.T.",
+        "email": "slamet.siswanto@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Internet of Things"
+    },
+    {
+        "nip": "198963528772002",
+        "nama": "SLAMET SISWANTO UTOMO, S.T.",
+        "email": "slamet.siswanto@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Cloud Computing"
+    },
+    {
+        "nip": "198963528772003",
+        "nama": "SITI HALUMA SADA, S.Pd.",
+        "email": "siti.haluma.sada@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "198963528772004",
+        "nama": "SITI HALUMA SADA, S.Pd.",
+        "email": "siti.haluma.sada@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Sejarah"
+    },
+    {
+        "nip": "198963528772005",
+        "nama": "RETNO DAMAYANTI, S.PdI",
+        "email": "retno.damayanti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "198963528772006",
+        "nama": "MUNTAMAH KHOIR, S.Pd",
+        "email": "muntamah.khoir@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "198963528772007",
+        "nama": "MUNTAMAH KHOIR, S.Pd",
+        "email": "muntamah.khoir@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Jawa"
+    },
+    {
+        "nip": "198963528772008",
+        "nama": "ERWYN FRIANDRIAS, S.Pd.",
+        "email": "erwyn.friandrias@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Jasmani, Olahraga dan Kesehatan"
+    },
+    {
+        "nip": "198963528772009",
+        "nama": "PUTY CHANDRA DARMAJANTI, M.Pd",
+        "email": "puty.chandra@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "198963528772010",
+        "nama": "YUDI WAHYU PRABASANGKA., S.E",
+        "email": "yudi.wahyu@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Seni Rupa"
+    },
+    {
+        "nip": "198963528772011",
+        "nama": "BAYU INDRA PERMANA, S.Pd.",
+        "email": "bayu.indra@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Pancasila dan Kewarganegaraan"
+    },
+    {
+        "nip": "198963528772012",
+        "nama": "WIDYAWATI, S.E",
+        "email": "widyawati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Sejarah"
+    },
+    {
+        "nip": "198963528772013",
+        "nama": "SHEILA NURVATISNA, S.Pd.",
+        "email": "sheila.nurvatisna@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Jawa"
+    },
+    {
+        "nip": "198963528772014",
+        "nama": "SHEILA NURVATISNA, S.Pd.",
+        "email": "sheila.nurvatisna@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772015",
+        "nama": "RETNO IRES DEVINA YOLANTI, S.ST.",
+        "email": "retno.ires@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PPLG"
+    },
+    {
+        "nip": "198963528772016",
+        "nama": "RETNO IRES DEVINA YOLANTI, S.ST.",
+        "email": "retno.ires@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Rekayasa Perangkat Lunak"
+    },
+    {
+        "nip": "198963528772017",
+        "nama": "NOVAL HARWIN ROZIN, S.Kom",
+        "email": "noval.harwin@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PPLG"
+    },
+    {
+        "nip": "198963528772018",
+        "nama": "NOVAL HARWIN ROZIN, S.Kom",
+        "email": "noval.harwin@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pengembangan Gim"
+    },
+    {
+        "nip": "198963528772019",
+        "nama": "MOHAMMAD SUKMAN HADI, S.Kom.",
+        "email": "mohammad.sukman@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "198963528772020",
+        "nama": "MOHAMMAD SUKMAN HADI, S.Kom.",
+        "email": "mohammad.sukman@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "198963528772021",
+        "nama": "MOHAMMAD SUKMAN HADI, S.Kom.",
+        "email": "mohammad.sukman@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Rekayasa Perangkat Lunak"
+    },
+    {
+        "nip": "198963528772022",
+        "nama": "DIAH PITALOKA KUSUMASTUTI, S.Pd.",
+        "email": "diah.pitaloka@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772023",
+        "nama": "DIAH PITALOKA KUSUMASTUTI, S.Pd.",
+        "email": "diah.pitaloka@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Jawa"
+    },
+    {
+        "nip": "198963528772024",
+        "nama": "MELANOKE PRAMANIK, S.Kom.",
+        "email": "melanoke.pramanik@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PPLG"
+    },
+    {
+        "nip": "198963528772025",
+        "nama": "MELANOKE PRAMANIK, S.Kom.",
+        "email": "melanoke.pramanik@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Rekayasa Perangkat Lunak"
+    },
+    {
+        "nip": "198963528772026",
+        "nama": "DIDIK SUPRIYADI, S.S.",
+        "email": "didik.supriyadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "198963528772027",
+        "nama": "SHIELDA SELINA, S.Pd.",
+        "email": "shielda.selina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "198963528772028",
+        "nama": "MUJAKI, S.Pd.",
+        "email": "mujaki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "198963528772029",
+        "nama": "ENDANG WIJIATI, S.Pd., M.Pd",
+        "email": "endang.wijiati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "198963528772030",
+        "nama": "REYNI DESITA, S.IP.",
+        "email": "reyni.desita@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Pancasila dan Kewarganegaraan"
+    },
+    {
+        "nip": "198963528772031",
+        "nama": "REYNI DESITA, S.IP.",
+        "email": "reyni.desita@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Seni Rupa"
+    },
+    {
+        "nip": "198963528772032",
+        "nama": "OSSY WIDYA KUSUMASTUTI, S.Pd",
+        "email": "ossy.widya@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Jawa"
+    },
+    {
+        "nip": "198963528772033",
+        "nama": "OSSY WIDYA KUSUMASTUTI, S.Pd",
+        "email": "ossy.widya@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Seni Tari"
+    },
+    {
+        "nip": "198963528772034",
+        "nama": "IKA AKPRILLIA AR ROCHMAH, S.Pd",
+        "email": "ika.akprillia@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Sejarah"
+    },
+    {
+        "nip": "198963528772035",
+        "nama": "IKA AKPRILLIA AR ROCHMAH, S.Pd",
+        "email": "ika.akprillia@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772036",
+        "nama": "NOVIM CICI HERBAVIANA, S.Kom, Gr.",
+        "email": "novim.cici@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian TJKT"
+    },
+    {
+        "nip": "198963528772037",
+        "nama": "NOVIM CICI HERBAVIANA, S.Kom, Gr.",
+        "email": "novim.cici@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "198963528772038",
+        "nama": "DWI HANDAYANI, S.Kom",
+        "email": "dwi.handayani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian TJKT"
+    },
+    {
+        "nip": "198963528772039",
+        "nama": "DWI HANDAYANI, S.Kom",
+        "email": "dwi.handayani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Tehnik Komputer dan Jaringan"
+    },
+    {
+        "nip": "198963528772040",
+        "nama": "HAYKAL, S.Pd.",
+        "email": "haykal@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian TJKT"
+    },
+    {
+        "nip": "198963528772041",
+        "nama": "HAYKAL, S.Pd.",
+        "email": "haykal@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Tehnik Komputer dan Jaringan"
+    },
+    {
+        "nip": "198963528772042",
+        "nama": "ADE SHILVI VERAWATI, S.T.",
+        "email": "ade.shilvi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772043",
+        "nama": "MAX ARENS WALALAYO, S.Pd",
+        "email": "max.arens@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PM"
+    },
+    {
+        "nip": "198963528772044",
+        "nama": "MAX ARENS WALALAYO, S.Pd",
+        "email": "max.arens@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "198963528772045",
+        "nama": "SLAMET HARIYADI, S.Ag.",
+        "email": "slamet.hariyadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "198963528772046",
+        "nama": "CITRA KUMALASARI, M.Pd",
+        "email": "citra.kumalasari@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "198963528772047",
+        "nama": "Dra. IDA SURYANINGRUM",
+        "email": "ida.suryaningrum@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "198963528772048",
+        "nama": "ANDI WAHYUDI, S.Pd.",
+        "email": "andi.wahyudi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Jasmani, Olahraga dan Kesehatan"
+    },
+    {
+        "nip": "198963528772049",
+        "nama": "YUSTA RIANDA, S.Pd.",
+        "email": "yusta.rianda@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Sejarah"
+    },
+    {
+        "nip": "198963528772050",
+        "nama": "Dra. ISTI'AH",
+        "email": "isti.ah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Pancasila dan Kewarganegaraan"
+    },
+    {
+        "nip": "198963528772051",
+        "nama": "SHELA OKTA GREFINA, S.Pd",
+        "email": "shela.okta@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "198963528772052",
+        "nama": "SURUR, S.Pd.",
+        "email": "surur@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "198963528772053",
+        "nama": "SURUR, S.Pd.",
+        "email": "surur@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bisnis Digital"
+    },
+    {
+        "nip": "198963528772054",
+        "nama": "MURNIATI, S.Pd.",
+        "email": "murniati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772055",
+        "nama": "ANGGUN SETYANINGTYAS, S.Pd",
+        "email": "anggun.setyaningtyas@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PM"
+    },
+    {
+        "nip": "198963528772056",
+        "nama": "ANGGUN SETYANINGTYAS, S.Pd",
+        "email": "anggun.setyaningtyas@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bisnis Digital"
+    },
+    {
+        "nip": "198963528772057",
+        "nama": "MOH. NURKHOLIS, S.Pd.Gr.",
+        "email": "moh.nurkholis@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "198963528772058",
+        "nama": "MOH. NURKHOLIS, S.Pd.Gr.",
+        "email": "moh.nurkholis@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PM"
+    },
+    {
+        "nip": "198963528772059",
+        "nama": "MOH. NURKHOLIS, S.Pd.Gr.",
+        "email": "moh.nurkholis@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kasir"
+    },
+    {
+        "nip": "198963528772060",
+        "nama": "LILIK ERNAWATI, S.S.",
+        "email": "lilik.ernawati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "198963528772061",
+        "nama": "MOHAMAD NOR SHODIQ, S.Pd",
+        "email": "mohamad.norshodiq@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "198963528772062",
+        "nama": "HARIS BUDI UTOMO, S.Ag.",
+        "email": "haris.budi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "198963528772063",
+        "nama": "KATMIRAH, S.Pd",
+        "email": "katmirah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "198963528772064",
+        "nama": "KATMIRAH, S.Pd",
+        "email": "katmirah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian MPLB"
+    },
+    {
+        "nip": "198963528772065",
+        "nama": "RETNO AFIANTI, S.Pd.",
+        "email": "retno.afianti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian MPLB"
+    },
+    {
+        "nip": "198963528772066",
+        "nama": "RETNO AFIANTI, S.Pd.",
+        "email": "retno.afianti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Manajemen Perkantoran"
+    },
+    {
+        "nip": "198963528772067",
+        "nama": "ARUMMAISHA MAHMUDAH, S.Pd.",
+        "email": "arummaisha.mahmudah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian MPLB"
+    },
+    {
+        "nip": "198963528772068",
+        "nama": "ARUMMAISHA MAHMUDAH, S.Pd.",
+        "email": "arummaisha.mahmudah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Manajemen Perkantoran"
+    },
+    {
+        "nip": "198963528772069",
+        "nama": "ELIA ROSA, S.Pd.",
+        "email": "elia.rosa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian MPLB"
+    },
+    {
+        "nip": "198963528772070",
+        "nama": "ELIA ROSA, S.Pd.",
+        "email": "elia.rosa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "198963528772071",
+        "nama": "M. YUSUF, M.Pd",
+        "email": "m.yusuf@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "198963528772072",
+        "nama": "M. YUSUF, M.Pd",
+        "email": "m.yusuf@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Manajemen Perkantoran"
+    },
+    {
+        "nip": "198963528772073",
+        "nama": "DIAN NOVIA PURWANDARI, S.Pd",
+        "email": "dian.novia@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian AKL"
+    },
+    {
+        "nip": "198963528772074",
+        "nama": "DIAN NOVIA PURWANDARI, S.Pd",
+        "email": "dian.novia@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "198963528772075",
+        "nama": "TITIS VIDYA NURINA, S.PD",
+        "email": "tis.vidya@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772076",
+        "nama": "RIZKY KUSUMA DEWI, S.Pd",
+        "email": "rizky.kusuma@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian AKL"
+    },
+    {
+        "nip": "198963528772077",
+        "nama": "RIZKY KUSUMA DEWI, S.Pd",
+        "email": "rizky.kusuma@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi"
+    },
+    {
+        "nip": "198963528772078",
+        "nama": "PURIS KUMALASARI ALMANAR, S.Pd.",
+        "email": "puris.kumalasari@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "198963528772079",
+        "nama": "PURIS KUMALASARI ALMANAR, S.Pd.",
+        "email": "puris.kumalasari@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "198963528772080",
+        "nama": "HADI PRANOWO, S.E.",
+        "email": "hadi.pranowo@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian AKL"
+    },
+    {
+        "nip": "198963528772081",
+        "nama": "HADI PRANOWO, S.E.",
+        "email": "hadi.pranowo@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "198963528772082",
+        "nama": "ENI KHOIRIYAH, S.Pd",
+        "email": "eni.khoiriyah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "198963528772083",
+        "nama": "KARSIYAH WATI, S.E.",
+        "email": "karsiyah.wati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian AKL"
+    },
+    {
+        "nip": "198963528772084",
+        "nama": "KARSIYAH WATI, S.E.",
+        "email": "karsiyah.wati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "198963528772085",
+        "nama": "TAMIM ZUHRI, S.Pd",
+        "email": "tamim.zuhri@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "198963528772086",
+        "nama": "UMI RAHAYU, S.Pd.",
+        "email": "umi.rahayu@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "198963528772087",
+        "nama": "TRI SUKESI SULISTYOWATI, M.Pd.",
+        "email": "tri.sukesi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "198963528772088",
+        "nama": "ROHIMAH, M.Par.",
+        "email": "rohimah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PH"
+    },
+    {
+        "nip": "198963528772089",
+        "nama": "ROHIMAH, M.Par.",
+        "email": "rohimah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "USaha Layanan Wisata"
+    },
+    {
+        "nip": "-",
+        "nama": "AGUS SUPRANTIYONO, S.Pd",
+        "email": "agus.suprantiyono@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Ilmu Pengetahuan Alam dan Sosial"
+    },
+    {
+        "nip": "-",
+        "nama": "KHARISMA MAHARANI, S.Tr.Par.",
+        "email": "kharisma.maharani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PH"
+    },
+    {
+        "nip": "-",
+        "nama": "KHARISMA MAHARANI, S.Tr.Par.",
+        "email": "kharisma.maharani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perhotelan"
+    },
+    {
+        "nip": "-",
+        "nama": "SYAMSU ABDUL HAMID, SS",
+        "email": "syamsu.abdul@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PH"
+    },
+    {
+        "nip": "-",
+        "nama": "SYAMSU ABDUL HAMID, SS",
+        "email": "syamsu.abdul@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Asing"
+    },
+    {
+        "nip": "-",
+        "nama": "ENDANG ISTORINA, S.ST.Par.",
+        "email": "endang.istorina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PH"
+    },
+    {
+        "nip": "-",
+        "nama": "ENDANG ISTORINA, S.ST.Par.",
+        "email": "endang.istorina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perhotelan"
+    },
+    {
+        "nip": "-",
+        "nama": "KARNADI, S.ST.Par.",
+        "email": "karnadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian PH"
+    },
+    {
+        "nip": "-",
+        "nama": "KARNADI, S.ST.Par.",
+        "email": "karnadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Layanan Area Publik"
+    },
+    {
+        "nip": "-",
+        "nama": "KARNADI, S.ST.Par.",
+        "email": "karnadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perhotelan"
+    },
+    {
+        "nip": "-",
+        "nama": "KARNADI, S.ST.Par.",
+        "email": "karnadi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian ULP"
+    },
+    {
+        "nip": "-",
+        "nama": "POLIN FEBIANA, S.Pd",
+        "email": "polin.febiana@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "TUTIK HARIYANI, S.Pd",
+        "email": "tutik.hariyani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "-",
+        "nama": "NUR LAILI, S.Pd",
+        "email": "nur.laili@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "-",
+        "nama": "GRIZELDA AUDINA HIDAYAT, S.Pd",
+        "email": "grizelda.audina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "MOH. YUSRON, S.Pd.",
+        "email": "moh.yusron@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "-",
+        "nama": "MOH. YUSRON, S.Pd.",
+        "email": "moh.yusron@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "-",
+        "nama": "ULFA HIDAYATI, S.Pd.",
+        "email": "ulfa.hidayati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "-",
+        "nama": "DWI DEDY SUSANDI, S.Sn",
+        "email": "dwi.dedy@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian DKV"
+    },
+    {
+        "nip": "-",
+        "nama": "DWI DEDY SUSANDI, S.Sn",
+        "email": "dwi.dedy@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Desain Komunikasi Visual"
+    },
+    {
+        "nip": "-",
+        "nama": "DIMAS SANRIZKI, S.Sn.",
+        "email": "dimas.sanrizki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian DKV"
+    },
+    {
+        "nip": "-",
+        "nama": "DIMAS SANRIZKI, S.Sn.",
+        "email": "dimas.sanrizki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Proyek Branding"
+    },
+    {
+        "nip": "-",
+        "nama": "MUTYA DINDA ARDILA, S.Kom.",
+        "email": "mutya.dinda@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian DKV"
+    },
+    {
+        "nip": "-",
+        "nama": "MUTYA DINDA ARDILA, S.Kom.",
+        "email": "mutya.dinda@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "-",
+        "nama": "MUTYA DINDA ARDILA, S.Kom.",
+        "email": "mutya.dinda@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Desain Komunikasi Visual"
+    },
+    {
+        "nip": "-",
+        "nama": "ASIH SETIANI, S.Pd",
+        "email": "asih.setiani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "-",
+        "nama": "ASIH SETIANI, S.Pd",
+        "email": "asih.setiani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "-",
+        "nama": "ASIH SETIANI, S.Pd",
+        "email": "asih.setiani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Desain Komunikasi Visual"
+    },
+    {
+        "nip": "-",
+        "nama": "ANY EKA NUR HIDAYATI, S.Pd.",
+        "email": "any.eka@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "DETRI ERWIN NURZANA, S.Pd",
+        "email": "detri.erwin@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "-",
+        "nama": "HASBY MAULIDZANA AL-AMIN, M.Pd.",
+        "email": "hasby.maulidzana@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "-",
+        "nama": "HEPI SETIAWAN, S.Pd.",
+        "email": "hepi.setiawan@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Pancasila dan Kewarganegaraan"
+    },
+    {
+        "nip": "-",
+        "nama": "MIFTAHUL JANNAH, S.Sn.",
+        "email": "miftahul.jannah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar Penciptaan Tari"
+    },
+    {
+        "nip": "-",
+        "nama": "MIFTAHUL JANNAH, S.Sn.",
+        "email": "miftahul.jannah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Seni Tari"
+    },
+    {
+        "nip": "-",
+        "nama": "SLAMET DIHARJO, S.Sn",
+        "email": "slamet.diharjo@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Seni Tari"
+    },
+    {
+        "nip": "-",
+        "nama": "SLAMET DIHARJO, S.Sn",
+        "email": "slamet.diharjo@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "-",
+        "nama": "KHOIRUN NISA MAULIDYAH, S.Pd, Gr",
+        "email": "khoirun.nisa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "-",
+        "nama": "M. DIGDAYA KHARISMA W., S.Pd.",
+        "email": "m.digdaya@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "M. DIGDAYA KHARISMA W., S.Pd.",
+        "email": "m.digdaya@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Sejarah"
+    },
+    {
+        "nip": "-",
+        "nama": "ERNI SUKMAWATI, S.Kom.",
+        "email": "erni.sukmawati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Informatika"
+    },
+    {
+        "nip": "-",
+        "nama": "ERNI SUKMAWATI, S.Kom.",
+        "email": "erni.sukmawati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Produksi Siaran Program Televisi"
+    },
+    {
+        "nip": "-",
+        "nama": "FERDI BARLIANTO, S.T.",
+        "email": "ferdi.barlianto@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "-",
+        "nama": "FERDI BARLIANTO, S.T.",
+        "email": "ferdi.barlianto@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Produksi Siaran Program Televisi"
+    },
+    {
+        "nip": "-",
+        "nama": "NUANSA RIZKY KAROSHA, S.Kom",
+        "email": "nuansa.rizky@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian BDP"
+    },
+    {
+        "nip": "-",
+        "nama": "NUANSA RIZKY KAROSHA, S.Kom",
+        "email": "nuansa.rizky@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Produksi Siaran Program Televisi"
+    },
+    {
+        "nip": "-",
+        "nama": "JAENURI, S.Kom.",
+        "email": "jaenuri@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian BDP"
+    },
+    {
+        "nip": "-",
+        "nama": "JAENURI, S.Kom.",
+        "email": "jaenuri@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Produksi Siaran Program Televisi"
+    },
+    {
+        "nip": "-",
+        "nama": "JAENURI, S.Kom.",
+        "email": "jaenuri@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar Desain Grafis"
+    },
+    {
+        "nip": "-",
+        "nama": "ATALANTA OKI AGYANSA, S.Pd.",
+        "email": "atalanta.oki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian BDP"
+    },
+    {
+        "nip": "-",
+        "nama": "ATALANTA OKI AGYANSA, S.Pd.",
+        "email": "atalanta.oki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Produksi Siaran Program Televisi"
+    },
+    {
+        "nip": "-",
+        "nama": "ATALANTA OKI AGYANSA, S.Pd.",
+        "email": "atalanta.oki@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar Desain Grafis"
+    },
+    {
+        "nip": "-",
+        "nama": "EKO WIDDY ASTUTI HANDAYANI, S.S., M.Pd.",
+        "email": "eko.widdy@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "SITI ISTIQOMAH, S.Pd.I.",
+        "email": "siti.istiqomah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "-",
+        "nama": "SELINDA ROSA NURCAHYATI, S.Tr.Par",
+        "email": "selinda.rosa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Dasar-dasar Program Keahlian ULP"
+    },
+    {
+        "nip": "-",
+        "nama": "SELINDA ROSA NURCAHYATI, S.Tr.Par",
+        "email": "selinda.rosa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perencanaan Perjalanan Wisata"
+    },
+    {
+        "nip": "-",
+        "nama": "TIURMA SRIULINA BR. SILAEN",
+        "email": "tiurma.sriulina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Koding dan Kecerdasan Artifisial"
+    },
+    {
+        "nip": "-",
+        "nama": "TIURMA SRIULINA BR. SILAEN",
+        "email": "tiurma.sriulina@guru.smk.id",
+        "password": "guru123",
+        "mapel": "USaha Layanan Wisata"
+    },
+    {
+        "nip": "-",
+        "nama": "DWI ANGGRIAWAN, S.Pd",
+        "email": "dwi.anggriawan@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "-",
+        "nama": "LUDFY YANA, S.Pd",
+        "email": "ludfy.yana@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "-",
+        "nama": "ZAKIYATUNNIDA, S.Pd.",
+        "email": "zakiyatunnida@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Matematika"
+    },
+    {
+        "nip": "-",
+        "nama": "ACHRIYATUL SETYORINI, S.ST.",
+        "email": "achriyatul.setyorini@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Rekayasa Perangkat Lunak"
+    },
+    {
+        "nip": "-",
+        "nama": "SAHLAN, S.Kom.",
+        "email": "sahlan@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Tehnik Komputer dan Jaringan"
+    },
+    {
+        "nip": "-",
+        "nama": "ANY PUJIASTUTI, S.E.",
+        "email": "any.pujiastuti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bisnis Digital"
+    },
+    {
+        "nip": "-",
+        "nama": "ANY PUJIASTUTI, S.E.",
+        "email": "any.pujiastuti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kasir"
+    },
+    {
+        "nip": "-",
+        "nama": "ANDI SEHA, S.Pd.",
+        "email": "andi.seha@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bisnis Digital"
+    },
+    {
+        "nip": "-",
+        "nama": "ZUHAIRINA BALQIS, S.Pd",
+        "email": "zuhairina.balqis@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Manajemen Perkantoran"
+    },
+    {
+        "nip": "-",
+        "nama": "ZUHAIRINA BALQIS, S.Pd",
+        "email": "zuhairina.balqis@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kesekretarisan"
+    },
+    {
+        "nip": "-",
+        "nama": "RIMA DHAMAYANTI, S.Pd.",
+        "email": "rima.dhamayanti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi"
+    },
+    {
+        "nip": "-",
+        "nama": "RIMA DHAMAYANTI, S.Pd.",
+        "email": "rima.dhamayanti@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi Koperasi Berbasis Excel"
+    },
+    {
+        "nip": "-",
+        "nama": "TUTUS INDRA RIWAYATI, S.Pd.",
+        "email": "tutus.indra@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi"
+    },
+    {
+        "nip": "-",
+        "nama": "DWI WARSI MIMIEN KUSETYANI, S.Pd.",
+        "email": "dwi.warsi@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi"
+    },
+    {
+        "nip": "-",
+        "nama": "RIMA MARDIYAH, S.E.Gr.",
+        "email": "rima.mardiyah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Akuntansi"
+    },
+    {
+        "nip": "-",
+        "nama": "SUHARTATIK, S.Pd",
+        "email": "suhartatik@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kreativitas, Inovasi, dan Kewirausahaan"
+    },
+    {
+        "nip": "-",
+        "nama": "UMI FITRIYANI, S.Pd.",
+        "email": "umi.fitriyani@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perhotelan"
+    },
+    {
+        "nip": "-",
+        "nama": "MASRIFAH HIDAYATI, S.Pd.",
+        "email": "masrifah.hidayati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Perhotelan"
+    },
+    {
+        "nip": "-",
+        "nama": "MASRIFAH HIDAYATI, S.Pd.",
+        "email": "masrifah.hidayati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kuliner"
+    },
+    {
+        "nip": "-",
+        "nama": "ANUNGGILING TYAS ADI R., S.Pd",
+        "email": "anunggingling.tyas@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kuliner"
+    },
+    {
+        "nip": "-",
+        "nama": "EVI SETYANINGSIH, S.Pd.T.",
+        "email": "evi.setyaningsih@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Kuliner"
+    },
+    {
+        "nip": "-",
+        "nama": "EVI SETYANINGSIH, S.Pd.T.",
+        "email": "evi.setyaningsih@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Cake Decoration"
+    },
+    {
+        "nip": "-",
+        "nama": "YOYOK HARSOYO",
+        "email": "yoyok.harsoyo@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Inggris"
+    },
+    {
+        "nip": "-",
+        "nama": "SRI ILMIYATI ZAKIYAH, S.Ag.",
+        "email": "sri.ilmiyati@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Agama dan Budi Pekerti"
+    },
+    {
+        "nip": "-",
+        "nama": "Dra. DALLY INDAH KABUL",
+        "email": "dally.indah@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Indonesia"
+    },
+    {
+        "nip": "-",
+        "nama": "YULIA AINUL WARDA, S.Pd",
+        "email": "yulia.ainul@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Bahasa Jawa"
+    },
+    {
+        "nip": "-",
+        "nama": "DINI ANGGA MAHARANI, S.Pd",
+        "email": "dini.angga@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Jasmani, Olahraga dan Kesehatan"
+    },
+    {
+        "nip": "-",
+        "nama": "HANIF IRIANTO, S.Pd",
+        "email": "hanif.irianto@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Pendidikan Jasmani, Olahraga dan Kesehatan"
+    },
+    {
+        "nip": "-",
+        "nama": "GEYANDRA NUHISA TANTRA, S.Sn.",
+        "email": "geyandra.nuhisa@guru.smk.id",
+        "password": "guru123",
+        "mapel": "Desain Komunikasi Visual"
+    }
+]
+]
